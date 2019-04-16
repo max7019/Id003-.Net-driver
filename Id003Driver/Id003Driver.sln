@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Id003Driver", "Id003Driver\Id003Driver.csproj", "{2E7AB3A7-B571-43F7-A4DD-C49931993F28}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Id003DriverTester", "..\Id003DriverTester\Id003DriverTester.csproj", "{AC66127E-101E-4EB1-A409-D8ABBA3C1176}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2E7AB3A7-B571-43F7-A4DD-C49931993F28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E7AB3A7-B571-43F7-A4DD-C49931993F28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E7AB3A7-B571-43F7-A4DD-C49931993F28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E7AB3A7-B571-43F7-A4DD-C49931993F28}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC66127E-101E-4EB1-A409-D8ABBA3C1176}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC66127E-101E-4EB1-A409-D8ABBA3C1176}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC66127E-101E-4EB1-A409-D8ABBA3C1176}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC66127E-101E-4EB1-A409-D8ABBA3C1176}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

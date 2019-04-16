@@ -1,0 +1,5 @@
+D:\projects\Libraries\Devices\Id003Driver\Id003Driver\Id003Driver\bin\Debug\Id003Driver.dll
+D:\projects\Libraries\Devices\Id003Driver\Id003Driver\Id003Driver\bin\Debug\Id003Driver.pdb
+D:\projects\Libraries\Devices\Id003Driver\Id003Driver\Id003Driver\obj\Debug\Id003Driver.csprojResolveAssemblyReference.cache
+D:\projects\Libraries\Devices\Id003Driver\Id003Driver\Id003Driver\obj\Debug\Id003Driver.dll
+D:\projects\Libraries\Devices\Id003Driver\Id003Driver\Id003Driver\obj\Debug\Id003Driver.pdb

@@ -1,0 +1,4 @@
+D:\projects\Libraries\Devices\Id003Driver\Id003Driver\Id003Driver\bin\Release\Id003Driver.dll
+D:\projects\Libraries\Devices\Id003Driver\Id003Driver\Id003Driver\bin\Release\Id003Driver.pdb
+D:\projects\Libraries\Devices\Id003Driver\Id003Driver\Id003Driver\obj\Release\Id003Driver.dll
+D:\projects\Libraries\Devices\Id003Driver\Id003Driver\Id003Driver\obj\Release\Id003Driver.pdb
